@@ -3,6 +3,9 @@
 
 This are some basic notes about the basics of condensed matter physics and some of the introductory concepts.
 
+## Contents
+
+
 Some of the topics covered are:
 
 1. [Specific heat of solids](/notes/02.ipynb)
@@ -21,4 +24,5 @@ The problem sets are placed [here](/problems).
 ### Authors
 
 Prof. Juan Carlos Marin
+
 Student: Jose M Munoz
