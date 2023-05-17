@@ -23,6 +23,6 @@ The problem sets are placed [here](/problems).
 ---
 ### Authors
 
-Prof. Juan Carlos Marin
+Prof. Juan Marcos Marin
 
 Student: Jose M Munoz
